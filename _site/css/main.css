@@ -51,3 +51,8 @@ h1 {
   font-size: 7vw;
   margin-top: 0;
 }
+/* HEADER STYLES*/
+
+.header-logo img {
+	width: 21vh;
+}
